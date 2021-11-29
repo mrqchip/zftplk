@@ -23,11 +23,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.9647587"
-     inkscape:cx="229.36099"
-     inkscape:cy="161.73323"
+     inkscape:zoom="1.4823794"
+     inkscape:cx="317.05784"
+     inkscape:cy="62.399682"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -112,7 +112,7 @@
      id="layer1">
     <g
        id="g10166"
-       transform="translate(-14.135337,-46.784741)">
+       transform="translate(-16.098678,-46.606255)">
       <circle
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path8865"
@@ -126,7 +126,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.785712,15.839149 V 3.7862496 H 58.623784 V 16.470191"
+       d="M 14.822371,16.017635 V 3.9647352 H 56.660443 V 16.648677"
        id="path10218"
        sodipodi:nodetypes="cccc" />
     <rect
@@ -134,33 +134,33 @@
        id="rect10341"
        width="3.6600425"
        height="10.096668"
-       x="56.919968"
-       y="16.526894" />
+       x="54.956627"
+       y="16.705379" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.848816,27.318027 V 39.370926 H 58.686888 V 26.686985"
+       d="M 14.885475,27.496513 V 39.549412 H 56.723547 V 26.865471"
        id="path10750"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10148)"
-       d="M 4.6066045,5.4900636 11.48496,14.64017"
+       d="M 2.6432632,5.6685492 9.5216187,14.818656"
        id="path10785"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10148)"
-       d="M 3.6600415,8.2035436 10.538397,17.35365"
+       d="M 1.6967002,8.3820292 8.5750557,17.532136"
        id="path11137"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.76863px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.119216"
-       x="61.429829"
-       y="23.270901"
+       x="59.466488"
+       y="23.449387"
        id="text12153"><tspan
          sodipodi:role="line"
          id="tspan12151"
          style="stroke-width:0.119216"
-         x="61.429829"
-         y="23.270901">R</tspan></text>
+         x="59.466488"
+         y="23.449387">Rg</tspan></text>
   </g>
 </svg>
