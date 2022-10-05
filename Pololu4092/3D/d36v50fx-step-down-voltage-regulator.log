@@ -1,0 +1,42 @@
+Translacja STEP do Solid Edge
+Data: œroda,paŸdziernik 05,2022 07:11
+Plik Ÿród³owy: E:\Design\zftplk\Pololu4092\3D\d36v50fx-step-down-voltage-regulator.step
+Autor: Nieznany
+Organizacja: Nieznany
+System Ÿród³owy: SolidWorks 2016
+
+Sprzêt:
+Procesor: AMD Ryzen 5 3600 6-Core Processor              
+System operacyjny: Windows 10 Professional
+Zainstalowana pamiêæ: 31.91 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 34.0.153
+Wersja PSBodyShop: 34.0.110
+Wersja adaptera Step: 9.0.92
+Wersja Solid Edge: 222.00.00.132 x64
+
+Opcje importu STEP
+Importuj bry³y uproszczone: W³¹cz
+Importuj bry³y kontrolne: Wy³¹cz
+Importuj krzywe: W³¹cz
+Importuj bez zapisu: W³¹cz
+Importuj wiele obiektów jako pojedynczy plik czêœci: W³¹cz
+Importuj powierzchnie zszywane: W³¹cz
+Importuj obiekty bry³owe operacji Boole'a: W³¹cz
+Utwórz element podstawowy: W³¹cz
+Upraszczaj geometriê: W³¹cz
+Importuj krzywe odciœniête: W³¹cz
+Importuj napêd: C:
+Importuj powierzchnie zszywane: W³¹cz
+Importuj powierzchnie: W³¹cz
+Importuj œcie¿kê wyjœciow¹: E:\Design\zftplk\Pololu4092\3D
+Importuj domyœln¹ œcie¿kê wyjœciow¹: W³¹cz
+Importuj PMI: Wy³¹cz
+Importuj jako komponenty wewnêtrzne: Wy³¹cz
+Œcie¿ka importu: 
+
+Translacja do typów danych Parasolid...
+Umieszczanie E:\Design\zftplk\Pololu4092\3D\d36v50fx-step-down-voltage-regulator.par
+Proces translacji zosta³ zakoñczony
+Ca³kowity czas wymagany do translacji i dalszego przetwarzania:00 : 00 : 07
