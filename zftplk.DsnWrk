@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\altiumlib\Schematic.LibPkg
+[Project2]
+ProjectPath=V12na6V\V12na6V.PrjPcb
