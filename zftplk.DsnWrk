@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=..\altiumlib\Schematic.LibPkg
 [Project2]
 ProjectPath=V12na6V\V12na6V.PrjPcb
+[Project3]
+ProjectPath=zftplk1\zftplk1.PrjPcb
